@@ -1,0 +1,9 @@
+.box {
+    width: 500px;
+    margin: 10px auto;
+}
+
+.input, .list {
+    width: 350px;
+    margin: 10px 10px 0 0;
+}
